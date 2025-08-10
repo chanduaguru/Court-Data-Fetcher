@@ -66,7 +66,13 @@ Court-Data-Dashboard/
 ├── queries.db # SQLite database
 ├── LICENSE # MIT License
 └── README.md # This file
+
 ---
+##
+**Demo Video:** 
+https://drive.google.com/file/d/1XI_T0MzRUZQVyOSUc0oRfMzPqlw4Rajx/view?usp=drive_link
+---
+
 ## ⚙️ Setup Instructions
 
 ### 
